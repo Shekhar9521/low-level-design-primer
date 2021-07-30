@@ -26,9 +26,9 @@ Feel free to submit pull requests to help:
 ## Under development
 Interested in adding a section or helping complete one in-progress? [Contribute](https://github.com/prasadgujar/low-level-design-primer/edit/master/README.md)!
 
-- how to guide and study material along with various resources.
-- add more questions and improve exisiting questions.
-- add solutions for the problems along with their detailed explaination (maybe video)
+- How to guide and study material along with various resources.
+- Add more questions and improve exisiting questions.
+- Add solutions for the problems along with their detailed explaination (maybe video)
 
 ## Credits
 Credits and sources are provided throughout this repo.
